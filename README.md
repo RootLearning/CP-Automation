@@ -13,5 +13,3 @@ Project to generate context specific boilerplate code for problem solving in con
 ## Support for Multiple Programming Languages will be an added advantage.
 ## Can scrap the problem URL for Sample Input and Output and pre-load the same.
 ## Multi-Platform Support will be an added advantage as well.
-
-
