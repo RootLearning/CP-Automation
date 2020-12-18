@@ -19,5 +19,5 @@ In this project,To make the competitive programming contests explain easier for 
 ### 5.Reduce the complexity  
 * Online contests contains various platform to the managements  
 * The scripting tools are useful to the all platforms.  
-* It reduce the complexity of participants
+* It reduce the complexity of participants.
 
