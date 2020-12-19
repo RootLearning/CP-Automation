@@ -1,18 +1,21 @@
-CP - Automation files.
+##                        CP - Automation files.
 
-_Step 1:_ Open a new file and use param(parameter) For creating a Solution . And create a new Project Name .
+_Step 1:_ Open a new file and use the param(parameter) For creating a Solution . And create a new Project Name.
 
-Example :
-    Param(
-    [string]$SolutionName="SampleSolution",
-    [string]$ProjetName="SampleProject"
-      )
+Example : Param( 
+        [string]$SolutionName="SampleSolution", 
+        [string]$ProjetName="SampleProject" 
+        )
 
-_Step 2:_ In second step , use **" mkdir "** for create new folder for solution **" mkdir SolutionName"**, give the created solution name .
+_Step 2:_ In the second step , use **mkdir** to create a new folder for a solution **mkdir SolutionName**, give the created solution name.
 
-_Step 3:_ And use **" cd "** for entering the folder **"cd ./SolutionName"** ,  For create a folder for new Projects.
+_Step 3:_ And use **cd** for entering the folder **cd ./SolutionName**, To create a folder for new Projects.
 
 _Step 4:_ Name the various Project type like,
+
+Example : $App=$ProjetName+"App" $Lib=$ProjetName+"Lib" $Test=$ProjetName+"Test"
+
+_Step 5:_ Create the folder for Projects
 
 Example : 
         $App=$ProjetName+"App"
@@ -27,22 +30,25 @@ _Step 5:_ Create the folder for Projects
 
 Those Steps for creating a folders for CP.
 
-*  Using System.IO For creating a Script for Automation Tool. 
+*  Those Steps for creating a folder for CP.
 
-* System.Io.DirectoryInfo: 
-            This is using for creating ,moving through Directories and subDirectories.
+*  Using System. IO For creating a Script for Automation Tool. 
 
-* System.IO.StreamReader : 
+*  System.IO.DirectoryInfo: 
+            This is using for creating, moving through Directories and subDirectories.
 
-            Using a streamreader that reads a character from a byte stream in a particular encoding.
-            Rules for using this System.Io .If you didn't close the reader the reader didn't work.
+*  System.IO.StreamReader : 
 
-* System.IO.StreeamWriter :
+            1. Using a stream reader that reads a character from a byte stream in a particular encoding.
+            2. Rules for using this System.Io.If you didn't close the reader didn't work.
 
-            Using a streamwriter that write a character from a particular ecoding.
-            Rules for using this System.Io .If you didn't close the writer the writer didn't work.
+*  System.IO.StreeamWriter :
 
-* Directory.CreateDirectory(path)
-            Using this to create a new directories and subdirectories in specified path.
+            1. Using a stream writer that writes a character from a particular encoding.
+            2. Rules for using this System.Io.If you didn't close the writer didn't work.
 
- Using this combination to creating a script for Competitive Programming.
+*  Directory.CreateDirectory(path)
+
+            Using this to create new directories and subdirectories in the specified path.
+
+ ### Using this combination to creating a script for Competitive Programming.
