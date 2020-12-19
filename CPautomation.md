@@ -1,6 +1,10 @@
 ##                        CP - Automation files.
 
+<<<<<<< HEAD
 _Step 1:_ Open a new file and use the param(parameter) For creating a Solution . And create a new Project Name.
+=======
+_Step 1:_ Open a new file and use param(parameter) For creating a Solution . And create a new Project Name .
+>>>>>>> 4134f55247f5f079f12fd2d7a0e2c771b7cbe5c1
 
 Example : Param( 
         [string]$SolutionName="SampleSolution", 
@@ -51,4 +55,8 @@ Those Steps for creating a folders for CP.
 
             Using this to create new directories and subdirectories in the specified path.
 
+<<<<<<< HEAD
  ### Using this combination to creating a script for Competitive Programming.
+=======
+ Using this combination to creating a script for Competitive Programming.
+>>>>>>> 4134f55247f5f079f12fd2d7a0e2c771b7cbe5c1
