@@ -11,14 +11,14 @@
 
 ## Objective:
 
-Our main goal is to reduce the time taken by the participants to do the repeative process and help the participants to work more effectively on the logic of the code.
+Our main goal is to reduce the time taken by the participants to do the repetitive process and help the participants to work more effectively on the logic for the code.
 
 
 ### What's going to happen inside our tool???
 
 ## **STEP 1**
 
-#### Getting input and ouput form the contest:
+#### Getting input and output from the contest:
 
  * The sample input and sample output from the contest should be copied and stored in any readable file. It can be a text file(.txt), markdown file (.md)
 
@@ -30,8 +30,9 @@ Our main goal is to reduce the time taken by the participants to do the repeativ
 
    [![](ss1.png)]
 
-* In this tool, we will give support to various types of problem input and outputs.
-*  Various problem including integers, strings, arrays, lists, char, and so on.
+* In this tool, we will give support to various types of input and outputs.
+
+*  Various input including integers, strings, arrays, lists, char, and so on.
   
 
 
@@ -56,14 +57,15 @@ While participating in a contest, the user has time constraints. Within a given 
 
 _This job can be made easier by scripting!!!!_
 
-**Powershell scripting** is the best way to automate all our processes. It is 100% automated, consistent, and faster.
+**Powershell scripting** is the best way to automate all our process. It is 100% automated, consistent, and faster.
 
 
-We can help the user by automate the solution,project,class folders creation by Powershell scripting.
+We can help the user by automating the solution,project,class folders creation by Powershell scripting.
 
 [![](ss2.png)]
 
-It will reduce Time consumption and allows users to concentrate on the problems more effectively.
+It will reduce Time consumption and allow users to concentrate on the logic for the problems more effectively.
+
 
 
 
@@ -94,23 +96,23 @@ By using this, the user can stream the exact input and output given in the conte
 
 No need to give the input and output by themselves.
 
-Time consumption and the accuracy for the input and output are optimized here!
+Time consumption and the accuracy are optimized here!
 
 
 ## **STEP 4**
 
 ### Compare and show the mismatch:
 
-* If both outputs are the same, the code is ready to upload in the contest
+* If both outputs are the same, the code is ready to upload in the contest.
 
-* else,the user have to recheck or modify the code according to the requirements.
+* else,the users have to recheck or modify the code according to the requirements.
 
 
-* Our tool should clearly show the mismatch between the expected and logic code text file,so that it will be effective for the user to find their mistakes.
+* Our tool should clearly show the mismatch between the expected and logic code text  output file,so that it will be effective for the user to find their mistakes.
 
 ### Why automated comparison?
 
-Without using our tool, the user should manually check the logic output and the expected output and find the mismatch.
+Without using our tool, the users manually check the logic output and the expected output and find the mismatch.
 
 But in our tool, we can automate the comparison and show where the mismatch occurs.
 
