@@ -39,13 +39,13 @@ Those Steps for creating a folders for CP.
 
 *  System.IO.StreamReader : 
 
-            Using a stream reader that reads a character from a byte stream in a particular encoding.
-            Rules for using this System.Io.If you didn't close the reader didn't work.
+            1. Using a stream reader that reads a character from a byte stream in a particular encoding.
+            2. Rules for using this System.Io.If you didn't close the reader didn't work.
 
 *  System.IO.StreeamWriter :
 
-            Using a stream writer that writes a character from a particular encoding.
-            Rules for using this System.Io.If you didn't close the writer didn't work.
+            1. Using a stream writer that writes a character from a particular encoding.
+            2. Rules for using this System.Io.If you didn't close the writer didn't work.
 
 *  Directory.CreateDirectory(path)
 
