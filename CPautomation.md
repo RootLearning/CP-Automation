@@ -1,6 +1,6 @@
 CP - Automation files.
 
-_Step 1:_ Open a new file and use param(parameter) For creating a Solution and name it in string. And create a new Project Name and name it in string .
+_Step 1:_ Open a new file and use param(parameter) For creating a Solution . And create a new Project Name .
 
 Example :
     Param(
