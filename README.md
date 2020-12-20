@@ -1,15 +1,22 @@
-# Competitive Programming - Automation
+## CP Automation
 
-Project to generate context specific boilerplate code for problem solving in contests/online platforms.
+ 
+### ToDo
 
-* Should provide options for file locations - Input and Output.
-* Should provide support for various types of problems - boilerplate code to differ based on problem type.
-* Integration with APIs for fetching and preloading test cases is recommended (but Optional).
-* Comparison of actual output with that of expected output will be helpful - Think of the best UX to do this.
-* Improved User Experience is the goal here. 
-* Should reduce the complexity of participating in online contests/platforms.
+1. Collect the parameters that we need from the user.
+2. Create dependencies for multiple languages.
+3. Get the input and expected output from the sites.
+4. Put in input and expected output from separate text files.
+5. stores program output in a separate text file.
+6. compare expected output and actual output
+7. The actual output is wrong to show an error with a warning.
+8. both outputs are correct shows how much time for working with the problem 
 
-## Can be done using Scripts (BASH/Powershell) or using Programming Languages.
-## Support for Multiple Programming Languages will be an added advantage.
-## Can scrap the problem URL for Sample Input and Output and pre-load the same.
-## Multi-Platform Support will be an added advantage as well.
+### Project Folder Structure
+ ex: C#
+
+ <img src="folder1.png" width="300" height="400" >
+
+
+
+    
