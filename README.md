@@ -1,15 +1,5 @@
 ## CP Automation
 
-
-### Features 
-
-* Multiple competitive Programming sites support.
-* Automatically loads the Sample input and expected output from sites.
-* It automatically compares the output of the Program and Expected Output.
-* Multiple programming language supports.
-* Multi platform-support
-* In the end, shows how much time to finish the program.
-
  
 ### ToDo
 
