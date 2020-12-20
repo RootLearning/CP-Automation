@@ -35,14 +35,15 @@ Those Steps for creating a folders for CP.
 *  Using System. IO For creating a Script for Automation Tool. 
 
 *  System.IO.DirectoryInfo: 
-            This is using for creating, moving through Directories and subDirectories.
+
+           1. This is using for creating, moving through Directories and subDirectories.
 
 *  System.IO.StreamReader : 
 
             1. Using a stream reader that reads a character from a byte stream in a particular encoding.
             2. Rules for using this System.Io.If you didn't close the reader didn't work.
 
-*  System.IO.StreeamWriter :
+*  System.IO.StreamWriter :
 
             1. Using a stream writer that writes a character from a particular encoding.
             2. Rules for using this System.Io.If you didn't close the writer didn't work.
